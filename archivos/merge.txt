@@ -1,3 +1,8 @@
 Sebastian Cadavid Ahumada
 18
 Espero poder aprender un poco mas sobre las aplicaciones en el campo laboral de la Programación Orientada a Objetos
+
+Git no rastrea carpetas sin contenido porque simplemente no hay nada que rastrear
+
+Porque los cambios locales van a ser diferentes a los remotos, y por tal razon va a haber un conflicto
+
